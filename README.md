@@ -3,6 +3,7 @@ Hi there! We are the 5 Vibes and together we are aiming to enhance the large sca
 
 ## Links to GitHub Wiki Design Process Overview.
 Click [here](https://github.com/bobblejotcake/the-5-vibes/wiki/Design-Process-Overview) to go to the Overview Design Process.
+Click [here](https://github.com/bobblejotcake/the-5-vibes/wiki/Standup--Meeting-Notes) for our StandUp Meeting Notes.
 
 Click [here](https://github.com/bobblejotcake/the-5-vibes/wiki/Ethical-Considerations) for the Ethical Considerations page.
 
