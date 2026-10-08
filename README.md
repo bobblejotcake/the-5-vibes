@@ -10,7 +10,16 @@ Click [here](https://github.com/bobblejotcake/the-5-vibes/wiki/Ethical-Considera
 
 Click [here](https://github.com/bobblejotcake/the-5-vibes/wiki/AI-Disclosure) for the AI Disclosure page.
 ## Prerequisites for Usage
- - To be updated later.
+ - Arduino R3 Uno
+
+
+### Softwares to Install
+Since Arduino Uno does not send MIDI signals natively, the following softwares to be installed to transfer the signals to MIDI
+
+LoopMidi at [https://www.tobias-erichsen.de/software/loopmidi.html](https://www.tobias-erichsen.de/software/loopmidi.html)
+Serial EA Bridge at v0.1.1 at [https://github.com/ezequielabregu/EA-serialmidi-bridge/releases](https://github.com/ezequielabregu/EA-serialmidi-bridge/releases)
+FL Studio (This software is paid, however this could be used with free DAW /Digital Audio Workstation alternatives).
+
 
 ## How to use Solution
 - To be updated later.
