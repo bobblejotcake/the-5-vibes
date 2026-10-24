@@ -1,5 +1,9 @@
-# The 5 Vibes 
+# Da Dome
+## An interaction encourager for Music Festivals, create by Just 5 Vibes
 Hi there! We are the 5 Vibes and together we are aiming to enhance the large scale music festival experience with more social and contextual. 
+
+## Link to our Promotional Material
+See our [Brochure](https://github.com/bobblejotcake/the-5-vibes/blob/476c3276f1447310003505a55dcb5afd2f129e90/Exhibit%20Promotional%20Material/Da%20Dome%20Brochure.pdf) and our [poster](https://github.com/bobblejotcake/the-5-vibes/blob/476c3276f1447310003505a55dcb5afd2f129e90/Exhibit%20Promotional%20Material/Da%20Dome%20Poster%20Final.pdf) for the Social & Mobile exhibit!
 
 ## Links to GitHub Wiki Design Process Overview.
 Click [here](https://github.com/bobblejotcake/the-5-vibes/wiki/Design-Process-Overview) to go to the Overview Design Process.
