@@ -6,7 +6,7 @@ Our installation encourages user interaction by allowing participants to hold bu
 This enhancement was intended for the "dead" space when roaming inbetween large scale music festivals.
 
 ## Link to our Promotional Material
-See our [Brochure](https://github.com/bobblejotcake/the-5-vibes/blob/476c3276f1447310003505a55dcb5afd2f129e90/Exhibit%20Promotional%20Material/Da%20Dome%20Brochure.pdf) and our [poster](https://github.com/bobblejotcake/the-5-vibes/blob/476c3276f1447310003505a55dcb5afd2f129e90/Exhibit%20Promotional%20Material/Da%20Dome%20Poster%20Final.pdf) for the Social & Mobile exhibit!
+See our [brochure](https://github.com/bobblejotcake/the-5-vibes/blob/476c3276f1447310003505a55dcb5afd2f129e90/Exhibit%20Promotional%20Material/Da%20Dome%20Brochure.pdf) and our [poster](https://github.com/bobblejotcake/the-5-vibes/blob/476c3276f1447310003505a55dcb5afd2f129e90/Exhibit%20Promotional%20Material/Da%20Dome%20Poster%20Final.pdf) for the Social & Mobile exhibit!
 
 ## Links to GitHub Wiki Design Process Overview.
 Click [here](https://github.com/bobblejotcake/the-5-vibes/wiki/Design-Process-Overview) to go to the Overview Design Process.
@@ -38,9 +38,12 @@ FL Studio (This software is paid, however this could be used with free DAW /Digi
 
 The 8 by 4 matrix has color coordinated cables that connect to the arcade buttons.
 On the arcade buttons side, the full color cable represents data and the striped color/white cable represent ground.
-<img width="4624" height="3472" alt="PXL_20261021_040226204" src="https://github.com/user-attachments/assets/e13f6be2-be63-499a-ad39-cb8a27ced3de" />
-> The arcade buttons side.
+
 <img width="4624" height="3472" alt="PXL_20261021_040140821" src="https://github.com/user-attachments/assets/b8e1a763-a206-436e-9268-b5fd1f807274" />
+> The arcade buttons side. Buttons can be attached on the other end.
+
+<img width="4624" height="3472" alt="PXL_20261021_040226204" src="https://github.com/user-attachments/assets/e13f6be2-be63-499a-ad39-cb8a27ced3de" />
+
 > The Arduino connection side of the button. Ensure the "white" version of every colored wire is connected to the ground pin within the soldered board. The full colored wire will go into the data pin on the protoboard. Messing up these connection may cause the buttons to not work.
 
 | Row Letter | Column 1  | Column 2 | Column 3 |  Column 4 | Column 5 | Column 6 | Column 7 | Column 8 |
@@ -50,9 +53,18 @@ On the arcade buttons side, the full color cable represents data and the striped
 | C | C1  | C2  | C3  | C4 | C5  | C6 | C7 | C8  |
 | D | D1  | D2 | D3  | D4  |D5 |D6  |D7 |D8 |
 > A table of what each of the soldered prototype is linked to within the code.
-<img width="4624" height="3472" alt="SolderBoard2" src="https://github.com/user-attachments/assets/de6589a2-8a49-4000-a717-68c9b42235c6" />
-> Picture of the soldered protoboard.
 
+<img width="4624" height="3472" alt="SolderBoard2" src="https://github.com/user-attachments/assets/de6589a2-8a49-4000-a717-68c9b42235c6" />
+
+> Picture of the soldered protoboard. See the above table to see what each pair of pins are linked up to.
+
+### Wiring to the Arduino
+- For the LED lights:
+- Pins for rows A,B,C,D are 7,8,5,4 respectively
+- For the Matrix
+- Pins for rows A,B,C,D are 30,32,34,36 respectively
+- Pins for columns 1-8 are 31,33,35,37,39,41,43,45 respectively
+Make sure the ground for the LEDs and the Arduino are the same, otherwise Da Dome may malfunction.
 
 ## How to use Solution
 - Ensure that the most recent Arduino code from the Github is uploaded to the Arduino Mega. This would be GeminiMatrixFinal.
