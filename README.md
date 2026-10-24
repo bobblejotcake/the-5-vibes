@@ -17,9 +17,9 @@ Click [here](https://github.com/bobblejotcake/the-5-vibes/wiki/Ethical-Considera
 
 Click [here](https://github.com/bobblejotcake/the-5-vibes/wiki/AI-Disclosure) for the AI Disclosure page.
 ## Prerequisites for Usage
- - Arduino R3 Uno Mega.
+ - Arduino R3 Mega
  - Soldered 8 by 4 pin diode matrix
- - 
+ - Laptop to connect to Arduino R3 Mega
 
 
 ### Softwares to Install
@@ -38,22 +38,38 @@ FL Studio (This software is paid, however this could be used with free DAW /Digi
 
 The 8 by 4 matrix has color coordinated cables that connect to the arcade buttons.
 On the arcade buttons side, the full color cable represents data and the striped color/white cable represent ground.
-
+<img width="4624" height="3472" alt="PXL_20261021_040226204" src="https://github.com/user-attachments/assets/e13f6be2-be63-499a-ad39-cb8a27ced3de" />
+> The arcade buttons side.
+<img width="4624" height="3472" alt="PXL_20261021_040140821" src="https://github.com/user-attachments/assets/b8e1a763-a206-436e-9268-b5fd1f807274" />
+> The Arduino connection side of the button. Ensure the "white" version of every colored wire is connected to the ground pin within the soldered board. The full colored wire will go into the data pin on the protoboard. Messing up these connection may cause the buttons to not work.
 
 | Row Letter | Column 1  | Column 2 | Column 3 |  Column 4 | Column 5 | Column 6 | Column 7 | Column 8 |
 | ------------- | ------------- | ------------- |------------- |------------- |------------- |------------- |------------- | ------------- |
-| A | Content Cell  | Content Cell  | Content Cell  | Content Cell  |Content Cell  |Content Cell  |Content Cell  | Content Cell  |
-| B | Content Cell  | Content Cell  | Content Cell  | Content Cell  |Content Cell  |Content Cell  |Content Cell |Content Cell  |
-| C | Content Cell  | Content Cell  | Content Cell  | Content Cell  |Content Cell  |Content Cell  |Content Cell |Content Cell  |
-| D | Content Cell  | Content Cell  | Content Cell  | Content Cell  |Content Cell  |Content Cell  |Content Cell |Content Cell  |
+| A | A1  | A2 | A3  | A4  | A5  | A6  | A7 | A8  |
+| B | B1  | B2  | B3  | B4  | B5 | B6  | B7 | B8 |
+| C | C1  | C2  | C3  | C4 | C5  | C6 | C7 | C8  |
+| D | D1  | D2 | D3  | D4  |D5 |D6  |D7 |D8 |
+> A table of what each of the soldered prototype is linked to within the code.
+<img width="4624" height="3472" alt="SolderBoard2" src="https://github.com/user-attachments/assets/de6589a2-8a49-4000-a717-68c9b42235c6" />
+> Picture of the soldered protoboard.
+
 
 ## How to use Solution
-- Ensure that the most recent Arduino code from the Github is uploaded to the Arduino Mega.
+- Ensure that the most recent Arduino code from the Github is uploaded to the Arduino Mega. This would be GeminiMatrixFinal.
 - Open the LoopMidi app and ensure a new LoopMidi port is added.
 <img width="607" height="402" alt="LoopMidi" src="https://github.com/user-attachments/assets/0b2cee12-05ab-45ce-bb7a-e2bf65080924" />
 
 - Open the EA Serial Bridge app, check that which port the serial cable is connected to via the Arduino app, and select the correct Serial Port, Midi Out (loopMidi Port 1) and the correct baud rate of 115200.
-- Download the FL studio file and open the zip folder within the FL Studio app. The ZIP file does not need to be unzipped before opening within FL studio.
-- If you have recently opened a new LoopMidi port, ensure that you disable and re-enable the general midi controller within FL studio
+- Download the most recent FL studio file (ClarityFinal.zip) and open the zip folder within the FL Studio app. Do not unzip the folder before opening it within FL Studio.
+- If you have recently opened a new LoopMidi port, ensure that you disable and re-enable the general midi controller within FL studio inside the MIDI options.
+<img width="826" height="942" alt="UpdateMIDISelection" src="https://github.com/user-attachments/assets/db818235-f8d4-457c-9350-b690934c14fb" />
 
-- Check that the project is looping and then press play! Da Dome is now functional!
+
+- Then check that the FL studio project is looping or that the top bar is red. If not, double click on the flag to make ensure the project loops.
+<img width="1112" height="909" alt="NoLoopClick" src="https://github.com/user-attachments/assets/1fa75223-722b-4713-8913-91d43df2230d" />
+<img width="1193" height="918" alt="Loop" src="https://github.com/user-attachments/assets/57ad28fb-c330-4d95-9473-4d96f5e485a9" />
+- Once everything has been setup, press play and start playing on Da Dome!
+
+*Please note that the ordering of applications is important. The Arduino app should be open first, then LoopMIDI and finally EA Serial Bridge. These applications are taking over the Serial Monitor function to transmit MIDI signals to the laptop 
+
+
