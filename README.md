@@ -1,6 +1,9 @@
 # Da Dome
-## An interaction encourager for Music Festivals, create by Just 5 Vibes
-Hi there! We are the 5 Vibes and together we are aiming to enhance the large scale music festival experience with more social and contextual. 
+### An interaction encourager for Music Festivals, created by Just 5 Vibes
+<img width="1000" height="630" alt="DaDome V1" src="https://github.com/user-attachments/assets/14b1c42f-0779-4a98-ba1f-9484ab0026b7" />
+Our installation encourages user interaction by allowing participants to hold buttons on an acrylic dome. For each button held down in the same row, it will play more complex music tracks within that instrument. Thus, the only way you can create music is to either find more friends or ask familiar strangers to help play music together!
+
+This enhancement was intended for the "dead" space when roaming inbetween large scale music festivals.
 
 ## Link to our Promotional Material
 See our [Brochure](https://github.com/bobblejotcake/the-5-vibes/blob/476c3276f1447310003505a55dcb5afd2f129e90/Exhibit%20Promotional%20Material/Da%20Dome%20Brochure.pdf) and our [poster](https://github.com/bobblejotcake/the-5-vibes/blob/476c3276f1447310003505a55dcb5afd2f129e90/Exhibit%20Promotional%20Material/Da%20Dome%20Poster%20Final.pdf) for the Social & Mobile exhibit!
@@ -8,13 +11,15 @@ See our [Brochure](https://github.com/bobblejotcake/the-5-vibes/blob/476c3276f14
 ## Links to GitHub Wiki Design Process Overview.
 Click [here](https://github.com/bobblejotcake/the-5-vibes/wiki/Design-Process-Overview) to go to the Overview Design Process.
 
-Click [here](https://github.com/bobblejotcake/the-5-vibes/wiki/Standup--Meeting-Notes) for our StandUp Meeting Notes.
+Click [here](https://github.com/bobblejotcake/the-5-vibes/wiki/Standup--Meeting-Notes) for our Stand Up Meeting Notes.
 
 Click [here](https://github.com/bobblejotcake/the-5-vibes/wiki/Ethical-Considerations) for the Ethical Considerations page.
 
 Click [here](https://github.com/bobblejotcake/the-5-vibes/wiki/AI-Disclosure) for the AI Disclosure page.
 ## Prerequisites for Usage
- - Arduino R3 Uno Mega. 
+ - Arduino R3 Uno Mega.
+ - Soldered 8 by 4 pin diode matrix
+ - 
 
 
 ### Softwares to Install
@@ -50,6 +55,5 @@ On the arcade buttons side, the full color cable represents data and the striped
 - Open the EA Serial Bridge app, check that which port the serial cable is connected to via the Arduino app, and select the correct Serial Port, Midi Out (loopMidi Port 1) and the correct baud rate of 115200.
 - Download the FL studio file and open the zip folder within the FL Studio app. The ZIP file does not need to be unzipped before opening within FL studio.
 - If you have recently opened a new LoopMidi port, ensure that you disable and re-enable the general midi controller within FL studio
-<img width="611" height="402" alt="image" src="https://github.com/user-attachments/assets/85af9cb4-d123-4da2-9135-6636ac6be4bf" />
 
 - Check that the project is looping and then press play! Da Dome is now functional!
