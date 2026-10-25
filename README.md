@@ -40,6 +40,7 @@ The 8 by 4 matrix has color coordinated cables that connect to the arcade button
 On the arcade buttons side, the full color cable represents data and the striped color/white cable represent ground.
 
 <img width="4624" height="3472" alt="PXL_20261021_040140821" src="https://github.com/user-attachments/assets/b8e1a763-a206-436e-9268-b5fd1f807274" />
+
 > The arcade buttons side. Buttons can be attached on the other end.
 
 <img width="4624" height="3472" alt="PXL_20261021_040226204" src="https://github.com/user-attachments/assets/e13f6be2-be63-499a-ad39-cb8a27ced3de" />
@@ -52,6 +53,7 @@ On the arcade buttons side, the full color cable represents data and the striped
 | B | B1  | B2  | B3  | B4  | B5 | B6  | B7 | B8 |
 | C | C1  | C2  | C3  | C4 | C5  | C6 | C7 | C8  |
 | D | D1  | D2 | D3  | D4  |D5 |D6  |D7 |D8 |
+
 > A table of what each of the soldered prototype is linked to within the code.
 
 <img width="4624" height="3472" alt="SolderBoard2" src="https://github.com/user-attachments/assets/de6589a2-8a49-4000-a717-68c9b42235c6" />
