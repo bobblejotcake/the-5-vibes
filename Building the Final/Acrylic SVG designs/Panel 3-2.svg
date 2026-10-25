@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1188.99 2562.79">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-1" points="621.56 1877.86 1188.49 1995.36 1188.49 959.3 621.56 1076.79 621.56 1877.86"/>
+  <polygon class="cls-1" points="1188.49 118.11 621.56 .61 621.56 1036.68 1188.49 919.18 1188.49 118.11"/>
+  <polygon class="cls-1" points="567.43 1076.79 .5 959.3 .5 1995.36 567.43 1877.86 567.43 1076.79"/>
+  <polygon class="cls-1" points=".5 919.18 567.43 1036.68 567.43 .61 .5 118.11 .5 919.18"/>
+  <polygon class="cls-1" points="198.62 1995.36 81.12 2562.29 1117.18 2562.29 999.69 1995.36 198.62 1995.36"/>
+  <g>
+    <circle class="cls-1" cx="283.96" cy="518.65" r="35.43"/>
+    <circle class="cls-1" cx="231.52" cy="518.65" r="5.67"/>
+    <circle class="cls-1" cx="336.41" cy="518.65" r="5.67"/>
+  </g>
+  <g>
+    <circle class="cls-1" cx="283.96" cy="1477.33" r="35.43"/>
+    <circle class="cls-1" cx="231.52" cy="1477.33" r="5.67"/>
+    <circle class="cls-1" cx="336.41" cy="1477.33" r="5.67"/>
+  </g>
+  <g>
+    <circle class="cls-1" cx="599.15" cy="2278.82" r="35.43"/>
+    <circle class="cls-1" cx="546.71" cy="2278.82" r="5.67"/>
+    <circle class="cls-1" cx="651.59" cy="2278.82" r="5.67"/>
+  </g>
+  <g>
+    <circle class="cls-1" cx="905.02" cy="1477.33" r="35.43"/>
+    <circle class="cls-1" cx="852.58" cy="1477.33" r="5.67"/>
+    <circle class="cls-1" cx="957.46" cy="1477.33" r="5.67"/>
+  </g>
+  <g>
+    <circle class="cls-1" cx="905.02" cy="518.65" r="35.43"/>
+    <circle class="cls-1" cx="852.58" cy="518.65" r="5.67"/>
+    <circle class="cls-1" cx="957.46" cy="518.65" r="5.67"/>
+  </g>
+</svg>

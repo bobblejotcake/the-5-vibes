@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1396.34 2483.62">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-1" points="568.31 2262.21 1.38 2482.89 1.38 2041.53 568.31 2262.21"/>
+  <polygon class="cls-1" points="568.31 1726.92 1.38 1947.59 1.38 1506.24 568.31 1726.92"/>
+  <polygon class="cls-1" points="568.31 1218.9 1.38 1439.57 1.38 998.22 568.31 1218.9"/>
+  <polygon class="cls-1" points="568.31 702.86 1.38 923.54 1.38 482.19 568.31 702.86"/>
+  <polygon class="cls-1" points="1.38 451.88 568.31 231.21 568.31 672.56 1.38 451.88"/>
+  <polygon class="cls-1" points="1.38 968.99 568.31 748.32 568.31 1189.67 1.38 968.99"/>
+  <polygon class="cls-1" points="1.38 1472.91 568.31 1252.23 568.31 1693.58 1.38 1472.91"/>
+  <polygon class="cls-1" points="1.38 1993.05 568.31 1772.37 568.31 2213.73 1.38 1993.05"/>
+  <polygon class="cls-1" points="1395.84 2461.75 1254.11 2402.99 1254.11 1286.42 1395.84 1227.66 1395.84 2461.75"/>
+  <polygon class="cls-1" points="1076.01 1227.66 1217.74 1286.42 1217.74 2402.99 1076.01 2461.75 1076.01 1227.66"/>
+  <polygon class="cls-1" points="1048.74 2461.75 907.01 2402.99 907.01 1286.42 1048.74 1227.66 1048.74 2461.75"/>
+  <polygon class="cls-1" points="738 1220.48 879.73 1279.24 879.73 2395.81 738 2454.57 738 1220.48"/>
+  <polygon class="cls-1" points="1254.11 7.93 1395.84 66.69 1395.84 1183.26 1254.11 1242.02 1254.11 7.93"/>
+  <polygon class="cls-1" points="1217.74 1242.02 1076.01 1183.26 1076.01 66.69 1217.74 7.93 1217.74 1242.02"/>
+  <polygon class="cls-1" points="907.01 7.93 1048.74 66.69 1048.74 1183.26 907.01 1242.02 907.01 7.93"/>
+  <polygon class="cls-1" points="879.73 1234.84 738 1176.08 738 59.51 879.73 .75 879.73 1234.84"/>
+  <g>
+    <circle class="cls-1" cx="412.4" cy="451.88" r="35.43"/>
+    <circle class="cls-1" cx="464.84" cy="451.88" r="5.67"/>
+    <circle class="cls-1" cx="359.96" cy="451.88" r="5.67"/>
+  </g>
+  <g>
+    <circle class="cls-1" cx="412.4" cy="968.99" r="35.43"/>
+    <circle class="cls-1" cx="464.84" cy="968.99" r="5.67"/>
+    <circle class="cls-1" cx="359.96" cy="968.99" r="5.67"/>
+  </g>
+  <g>
+    <circle class="cls-1" cx="157.28" cy="1218.9" r="35.43"/>
+    <circle class="cls-1" cx="209.72" cy="1218.9" r="5.67"/>
+    <circle class="cls-1" cx="104.84" cy="1218.9" r="5.67"/>
+  </g>
+  <g>
+    <circle class="cls-1" cx="412.4" cy="1472.91" r="35.43"/>
+    <circle class="cls-1" cx="464.84" cy="1472.91" r="5.67"/>
+    <circle class="cls-1" cx="359.96" cy="1472.91" r="5.67"/>
+  </g>
+  <g>
+    <circle class="cls-1" cx="157.28" cy="1726.92" r="35.43"/>
+    <circle class="cls-1" cx="209.72" cy="1726.92" r="5.67"/>
+    <circle class="cls-1" cx="104.84" cy="1726.92" r="5.67"/>
+  </g>
+  <g>
+    <circle class="cls-1" cx="412.4" cy="1993.05" r="35.43"/>
+    <circle class="cls-1" cx="464.84" cy="1993.05" r="5.67"/>
+    <circle class="cls-1" cx="359.96" cy="1993.05" r="5.67"/>
+  </g>
+  <g>
+    <circle class="cls-1" cx="157.28" cy="2262.21" r="35.43"/>
+    <circle class="cls-1" cx="209.72" cy="2262.21" r="5.67"/>
+    <circle class="cls-1" cx="104.84" cy="2262.21" r="5.67"/>
+  </g>
+  <g>
+    <circle class="cls-1" cx="157.28" cy="702.86" r="35.43"/>
+    <circle class="cls-1" cx="209.72" cy="702.86" r="5.67"/>
+    <circle class="cls-1" cx="104.84" cy="702.86" r="5.67"/>
+  </g>
+</svg>
